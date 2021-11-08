@@ -10,7 +10,7 @@ const routes = [
     },
     {
         name: 'about',
-        path: '/test-vue/about',
+        path: '/test-vue/propos',
         component: About,
     },
 ]
