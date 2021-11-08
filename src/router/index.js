@@ -5,12 +5,12 @@ import About from '@/views/About.vue';
 const routes = [
     {
         name: 'home',
-        path: '/home',
+        path: '/test-vue',
         component: Home,
     },
     {
         name: 'about',
-        path: '/a-propos',
+        path: '/test-vue/about',
         component: About,
     },
 ]
