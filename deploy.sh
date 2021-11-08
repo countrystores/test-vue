@@ -9,5 +9,5 @@ git init
 git add -A
 git commit -m "New deployement by me"
 
-git push -f git@github.com:countrystores/test-vue.git master:master
+git push -f git@github.com:countrystores/test-vue.git master:gh-pages
 cd -
